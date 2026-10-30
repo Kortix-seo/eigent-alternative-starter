@@ -1,6 +1,6 @@
 # Eigent alternative — a company-wide agent system you own, on Kortix
 
-**Kortix is the open-source AI Operating System** — the leading open-source alternative to Claude Cowork and ChatGPT Work. This starter runs the kind of multi-agent work Eigent does on your desktop, for a whole team, from one git repo you control.
+**Kortix is the open-source CompanyOS** — the leading open-source alternative to Claude Cowork and ChatGPT Work. This starter runs the kind of multi-agent work Eigent does on your desktop, for a whole team, from one git repo you control.
 
 Eigent ([eigent-ai/eigent](https://github.com/eigent-ai/eigent)) is a strong open-source Cowork desktop app. It is Apache-2.0 licensed, built on CAMEL-AI, and gives one power user a multi-agent workforce on their own machine — parallel agents, local model support, browser and terminal toolkits. This repo is for the step after that: when the same agents have to work for a team, on shared infrastructure, with a person approving what they change.
 
@@ -9,7 +9,7 @@ Eigent ([eigent-ai/eigent](https://github.com/eigent-ai/eigent)) is a strong ope
 | | Eigent | Kortix |
 |---|---|---|
 | Open source | Yes (Apache-2.0) | **Yes** |
-| What it is | Desktop Cowork app | Open-source AI Operating System |
+| What it is | Desktop Cowork app | Open-source CompanyOS |
 | Agents, skills, memory | Inside the app | **Files in one git repo you own** |
 | Where an agent runs | Your machine (local-first) | **Its own cloud computer per session, on its own branch** |
 | Review before it acts | App-level | **Per-tool allow / ask / block; every change lands as a change request you merge** |
@@ -52,4 +52,4 @@ Prefer zero setup? Sign up at [kortix.com](https://kortix.com), create a project
 - [Eigent vs Manus](https://eigentalternative.com/eigent-vs-manus)
 - [Eigent on GitHub: where the repo lives and how to run it](https://eigentalternative.com/eigent-github)
 
-Kortix is the open-source AI Operating System. Self-host for free, or use Kortix Cloud.
+Kortix is the open-source CompanyOS. Self-host for free, or use Kortix Cloud.
